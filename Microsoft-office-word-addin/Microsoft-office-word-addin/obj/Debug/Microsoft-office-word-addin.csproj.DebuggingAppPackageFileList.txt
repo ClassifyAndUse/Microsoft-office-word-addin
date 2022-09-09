@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Microsoft-office-word-addinManifest.xml
+D:\Mryan2005\代码\ExcerptSea\Microsoft-office-word-addin\Microsoft-office-word-addin\Microsoft-office-word-addin\bin\Debug\Microsoft-office-word-addin.debugapp

@@ -1,0 +1,7 @@
+False
+903c0b4e-7cd0-48fb-a446-8ca03bf0bdcc2e54d6ec-eb9a-455d-a4ab-d804bde0102a
+{c8d73a14-b549-469b-8af1-10207cd04287}{b773d19f-bfd7-4d0b-9507-5bec584cf191}
+{aeec22c3-3f3b-46de-832f-370bbc440ef6}
+1.0.0.0
+Microsoft-office-word-addin
+_layouts/15/

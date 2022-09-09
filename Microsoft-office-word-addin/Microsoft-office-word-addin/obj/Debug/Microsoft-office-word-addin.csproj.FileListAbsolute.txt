@@ -1,0 +1,2 @@
+D:\Mryan2005\代码\ExcerptSea\Microsoft-office-word-addin\Microsoft-office-word-addin\Microsoft-office-word-addin\obj\Debug\Microsoft-office-word-addin.csproj.AssemblyReference.cache
+D:\Mryan2005\代码\ExcerptSea\Microsoft-office-word-addin\Microsoft-office-word-addin\Microsoft-office-word-addin\obj\Debug\Microsoft-office-word-addin.csproj.CoreCompileInputs.cache
